@@ -1,0 +1,25 @@
+.env
+.env.*
+*.env
+*.env.*
+secrets
+*.pem
+*.key
+*.p12
+*.pfx
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.coverage
+*.log
+*.tmp
+*.bak
+*.swp
+/storage/
+/backups/
+!.env.example
+/Скриншоты/*docker compose ps*.png
